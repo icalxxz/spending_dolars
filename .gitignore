@@ -1,0 +1,15 @@
+# Secret files
+service.json
+.env
+
+# Go build
+bin/
+*.exe
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
